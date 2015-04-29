@@ -1,4 +1,4 @@
-angular.module('starter.controllers', [])
+angular.module('todo.controllers', [])
 
 .controller('AppCtrl', function($scope, $ionicModal, $ionicPopover, $timeout) {
     // Form data for the login modal
